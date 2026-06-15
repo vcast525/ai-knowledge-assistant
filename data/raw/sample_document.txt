@@ -1,0 +1,4 @@
+The AI Knowledge Assistant is designed to ingest, process,
+search, and retrieve information from enterprise documents.
+
+Document ingestion supports TXT, PDF, and DOCX files.
