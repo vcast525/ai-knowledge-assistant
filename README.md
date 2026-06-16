@@ -42,7 +42,7 @@ Knowledge Search Service
 Document Repository
 ```
 
-## 📸 Application Screenshots
+## Application Screenshots
 
 ### Streamlit Search Interface
 
