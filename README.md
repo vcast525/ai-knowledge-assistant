@@ -16,8 +16,21 @@ The project demonstrates real-world software engineering concepts including docu
 - DOCX
 - TXT
 
-## Planned Architecture
+## Key Features
 
+- Multi-format document ingestion (TXT, PDF, DOCX)
+- Document processing and normalization
+- Keyword-based search engine
+- Match count analysis
+- Search result previews
+- FastAPI REST API integration
+- Interactive Streamlit dashboard
+- Swagger/OpenAPI documentation
+- Professional GitHub workflow
+
+## Application Architecture
+
+```text
 User
 ↓
 Streamlit Frontend
@@ -27,7 +40,66 @@ FastAPI REST API
 Knowledge Search Service
 ↓
 Document Repository
+```
 
-## Status
+## Application Screenshots
 
-Version 1.0 - Project Initialization
+### Streamlit Search Interface
+
+![Streamlit Search Interface](docs/images/streamlit-dashboard.png)
+
+### FastAPI Swagger Documentation
+
+![FastAPI Swagger Documentation](docs/images/swagger-api.png)
+
+## Technology Stack
+
+### Backend
+
+- Python
+- FastAPI
+- PyPDF2
+- python-docx
+
+### Frontend
+
+- Streamlit
+
+### Development Tools
+
+- Git
+- GitHub
+- PyCharm
+
+### APIs
+
+- REST API
+- Swagger / OpenAPI
+
+## Project Status
+
+### Completed Features
+
+- TXT document ingestion
+- PDF document ingestion
+- DOCX document ingestion
+- Document processing engine
+- Document search engine
+- FastAPI REST API
+- Swagger API documentation
+- Streamlit frontend dashboard
+- GitHub CI/CD workflow
+
+### Current Release
+
+Version 1.0 - Complete
+
+## Future Enhancements
+
+- AI-powered question answering
+- React frontend interface
+- User authentication and authorization
+- Document upload functionality
+- Semantic search capabilities
+- Vector database integration
+- Enterprise analytics dashboard
