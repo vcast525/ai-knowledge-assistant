@@ -30,7 +30,7 @@ Search Service
 Processed Document Files
 ```
 
-## Foldder Structure
+## Folder Structure
 
 ```text
 ai-knowledge-assistant/
